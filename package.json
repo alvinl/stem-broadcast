@@ -1,0 +1,15 @@
+{
+  "name": "stem-broadcast",
+  "version": "1.0.0",
+  "description": "Broadcasts a message to all of the bots friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvin Lazaro <me@alvinl.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hiredis": "^0.1.17",
+    "redis": "^0.10.3"
+  }
+}
